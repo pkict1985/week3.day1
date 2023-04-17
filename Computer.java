@@ -9,6 +9,7 @@ package org.system;
  */
 public class Computer {
 	public void computerModel() {
+		//Added here newly
 		System.out.println("Model of the Computer");
 	}
 }

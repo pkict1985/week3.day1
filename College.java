@@ -1,6 +1,7 @@
 package org.college;
 
 public class College{
+	//Added newly
 	public void collegeName() {
 		System.out.println("This message is from collegeName() of College");
 	}
